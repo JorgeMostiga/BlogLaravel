@@ -4,11 +4,6 @@
 <x-blog-layout meta-title="Home Title" meta-description="Home Description"> {{-- esto es equivqalente a lo de arriba --}}
     <h1 class="h1 text-center text-danger">Inicio</h1>
 
-    {{-- Modal --}}
-    <!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-  Launch demo modal
-</button>
 
 {{-- 
     <x-slot:sidebar> {{-- name="sidebar" 
